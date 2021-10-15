@@ -1,0 +1,105 @@
+body {
+	background-color: #CCC;
+	font-family: Helvetica, Arial, sans-serif;	
+}
+
+#container {
+	background-color: #FFF;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+}
+
+#aboutheader {
+	background-color: #F4340B;
+	color: white;
+	text-align: center;	
+	padding: 10px;
+	
+}
+
+
+
+#header {
+	background-color: #F4340B;
+	color: white;
+	text-align: center;	
+	padding: 10px;
+}
+
+#content {
+	padding: 10px;
+	
+}
+
+a {
+	text-decoration: none;
+	color: red;
+}
+
+h1 {
+	margin: 0;
+}
+
+
+#nav ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+#nav {
+	width: 130px;
+	float: left;
+
+}
+
+#nav .selected {
+	font-weight: bold;
+}
+
+#main {
+	width: 600px;
+	float: centre;
+}
+
+#megumi {
+	float: right;
+	padding-bottom: 10px;
+	width: 200px;
+
+}
+
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: #0B0000;
+	color: white;
+	text-align: right;
+}
+
+#navabout {
+	float: left;
+	width: 130px;
+	
+}
+
+
+#mainabout {
+	float: right;
+	width: 600px;
+}
+
+#contentabout {
+	background-color: #FFF;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+}
+
+
+#gmap_canvas {
+		float: centre;
+	
+}
